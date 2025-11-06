@@ -4,8 +4,8 @@
 <div>
   
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></div>
-<img loading="lazy" src="https://github.com/robertoHenriq/robertoHenriq/blob/main/icegif-302.gif" width="100%" height="100%"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img loading="lazy" src="https://github.com/robertoHenriq/robertoHenriq/blob/main/vegeta-vegeta-dance.gif" width="40" height="40"/></div>
+<img loading="lazy" src="https://github.com/robertoHenriq/robertoHenriq/blob/main/icegif-302.gif" width="450" height="450"/>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoHenriq&layout=compact&langs_count=7&theme=dark"/>
